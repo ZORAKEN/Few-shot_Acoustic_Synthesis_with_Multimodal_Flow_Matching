@@ -1,3 +1,5 @@
+<img width="1086" height="1448" alt="ChatGPT Image Jul 2, 2026, 12_59_08 AM" src="https://github.com/user-attachments/assets/5b8d368a-ba5a-44b8-9fa5-b74571238f6d" />
+<img width="1024" height="1536" alt="ChatGPT Image Jul 2, 2026, 12_54_34 AM" src="https://github.com/user-attachments/assets/6b6e7bf1-f9b6-418e-857d-363bcea4e230" />
 # Few-shot_Acoustic_Synthesis_with_Multimodal_Flow_Matching
 # Scientific Research Presentation Project
 
